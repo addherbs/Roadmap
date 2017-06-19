@@ -1,0 +1,35 @@
+This to Learn
+
+c#
+
+c++
+
+java
+
+javascript
+
+json
+
+matlab
+
+php
+
+Django
+
+
+
+Tools:
+
+powershell
+
+visual basic
+
+angular js
+
+bash
+
+git
+
+jquery
+
+vim
