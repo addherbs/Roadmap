@@ -20,3 +20,9 @@ Graphics:
 					from your favorite music player.
 	4: GIF Creator - A program that puts together multiple images (PNGs, JPGs, TIFFs) to make a smooth GIF that can be exported.
 					Optional: Make the program convert small video files to GIFs as well.
+					
+	
+	In general projects:
+		1: Portfolio
+		2: Workout schedular
+		
