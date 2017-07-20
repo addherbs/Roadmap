@@ -1,0 +1,22 @@
+Web Development:
+	1: Scraping
+	2: White board(Collaboration)
+	3: Forum
+	4: 
+	
+Files:
+	1: PDF Generator
+	2: 
+	
+Database:
+	1: Query Optimization
+	2: 
+	
+Graphics:
+	1: Slide Show - Make an application that shows various pictures in a slide show format. 
+	2: Stream Video from Online - Try to create your own online streaming video player.
+
+	3: Mp3 Player - A simple program for playing your favorite music files. Add features you think are missing 
+					from your favorite music player.
+	4: GIF Creator - A program that puts together multiple images (PNGs, JPGs, TIFFs) to make a smooth GIF that can be exported.
+					Optional: Make the program convert small video files to GIFs as well.
