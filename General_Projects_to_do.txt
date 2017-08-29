@@ -7,11 +7,11 @@ Web Development:
 	4: 
 	
 Files:
-	1: PDF Generator
+	1: PDF Generator #Converts a file to pdf
 	2: 
 	
 Database:
-	1: Query Optimization
+	1: Query Optimization	= Optimizes the query
 	2: 
 	
 Graphics:
