@@ -5,3 +5,11 @@ Node.js:
 	Express
 	
 	
+Flask:
+	MongoDB using Alchemy --->  Pretty Printed
+	
+	
+jQuery
+Angular.js
+
+
